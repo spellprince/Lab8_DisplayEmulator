@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab8_DisplayClient/Lab8_DisplayClient.vcxproj" />
+  <Project Path="Lab8_DisplayModule/Lab8_DisplayModule.vcxproj" />
+</Solution>
